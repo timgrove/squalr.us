@@ -1,0 +1,11 @@
+{
+  "name": "squalr.us",
+  "version": "1.0.0",
+  "author": "Chad Schulz <chad.awesome@gmail.com>",
+  "license": "MIT",
+  "lib": "wwwroot/lib",
+  "bin": "wwwroot/lib",
+  "dependencies": {
+    "foundation-sites": "^6.4.4-rc1"
+  }
+}
