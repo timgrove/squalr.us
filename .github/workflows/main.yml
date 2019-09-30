@@ -11,11 +11,11 @@ jobs:
     name: Merge
     steps:
     - name: Integration check
-      uses: squalrus/merge-bot@update-2
+      uses: squalrus/merge-bot@add-tests
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         test: false
-        reviewers: true
+        reviewers: false
         labels: ready
         blocking-labels: do not merge
         method: squash
