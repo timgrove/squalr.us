@@ -8,7 +8,8 @@ Weekly listening party and social chat.
 
 ## Past
 
-- `2021.10.11`: [Episode 37: Kendrick Lamar "good kid m.A.A.d city"](https://music.youtube.com/playlist?list=OLAK5uy_loAhd6KkqylUkKPsHPu1unfpqNlb8DBy4)
+- `2021.10.11`: [Episode 38: Miles Davis "Kind of Blue"](https://music.youtube.com/playlist?list=OLAK5uy_m2X713P3iw0NSEfG6jh_uk59x37L492kM)
+- `2021.10.11`: [Episode 37: Plini "Impulse Voices"](https://music.youtube.com/playlist?list=OLAK5uy_lT_KB-jr9ri9ddPB5VDv5K0yHG11WUX1I)
 - `2021.10.11`: [Episode 36: Stevie Wonder "Songs in the Key of Life"](https://music.youtube.com/playlist?list=OLAK5uy_mmSLtHX8RxMd-Y8Kp9h44prOMFQLYou7M)
 - `2021.09.20`: [Episode 35: Fleetwood Mac "Rumours"](https://music.youtube.com/playlist?list=OLAK5uy_keqotLYhIED047BDDByl-r-jTAhYu3V2I)
 - `2021.09.13`: [Episode 34](https://music.youtube.com/playlist?list=PLH7YWwiPIVPunQc5wDCyJC-Xrn_r7aMdk)
