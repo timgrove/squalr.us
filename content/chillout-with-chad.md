@@ -8,6 +8,7 @@ Weekly listening party and social chat.
 
 ## Past
 
+- `2021.11.01`: [Episode 39: Daft Punk "Discovery"](https://music.youtube.com/playlist?list=OLAK5uy_mz6eafmqdRHSaR4IwG0ll6J6rgv0_ZpGw)
 - `2021.10.11`: [Episode 38: Miles Davis "Kind of Blue"](https://music.youtube.com/playlist?list=OLAK5uy_m2X713P3iw0NSEfG6jh_uk59x37L492kM)
 - `2021.10.11`: [Episode 37: Plini "Impulse Voices"](https://music.youtube.com/playlist?list=OLAK5uy_lT_KB-jr9ri9ddPB5VDv5K0yHG11WUX1I)
 - `2021.10.11`: [Episode 36: Stevie Wonder "Songs in the Key of Life"](https://music.youtube.com/playlist?list=OLAK5uy_mmSLtHX8RxMd-Y8Kp9h44prOMFQLYou7M)
