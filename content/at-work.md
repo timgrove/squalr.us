@@ -4,7 +4,7 @@ That's right, `chad-dev` is back!
 
 ## Bookmarks
 
-- [noise=off](javascript:window.location += '?noise=off';"): turn on the noise='off' querystring
+- <a href="javascript:window.location += '?noise=off';">noise=off</a>: turn on the noise='off' querystring
 
 - [--> prod](javascript:window.location = window.location.href.replace(window.location.origin, 'https://azure.microsoft.com')): view the current page in the production environment
 
